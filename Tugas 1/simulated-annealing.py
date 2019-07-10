@@ -1,3 +1,6 @@
+#2019 Tugas AI
+#This code is Created by mrezaprwr on Github https://github.com/mrezaprwr/AI-college-project repository
+#Ask for permission to download this file by email rsiahaan4@gmail.com
 
 import random
 from math import sin, cos, exp, sqrt
