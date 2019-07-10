@@ -4,6 +4,10 @@ Created on Sun Mar 17 23:20:38 2019
 
 @author: Reza Siahaan
 """
+#2019 Tugas AI
+#This code is Created by mrezaprwr on Github https://github.com/mrezaprwr/AI-college-project repository
+#Ask for permission to download this file by email rsiahaan4@gmail.com
+
 import numpy as np
 import pandas as pd
 from collections import Counter
